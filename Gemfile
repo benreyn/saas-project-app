@@ -7,6 +7,8 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
+gem 'devise'
+gem 'milia'
 
 group :development, :test do
   gem 'byebug'
@@ -22,3 +24,5 @@ group :production do
   gem 'pg'
   gem 'rails_12factor'
 end
+gem 'recaptcha', require: 'recaptcha/rails'
+gem 'activerecord-session_store', github: 'rails/activerecord-session_store'
