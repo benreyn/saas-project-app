@@ -1,3 +1,3 @@
-== SAAS PROJECT MANAGEMENT APP
+# SAAS PROJECT MANAGEMENT APP
 
-This project was built by following Mashrur Hossains Proffesional Ruby on Rails developer course on www.udemy.com
+This project was built by following Mashrur Hossains Complete Ruby on Rails developer course on www.udemy.com
